@@ -1,5 +1,3 @@
-# Getting Started
-
 # React Native App with SQLite and Form Validation
 
 This is a simple React Native app that demonstrates how to integrate SQLite storage for local data management, form handling with `Formik`, and validation using `Yup`. The app allows users to add, edit, and delete user information, including name, age, and mobile number, with form validation for each input field.
@@ -20,6 +18,8 @@ This is a simple React Native app that demonstrates how to integrate SQLite stor
 - Yup (for form validation)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+# Getting Started
 
 > **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
